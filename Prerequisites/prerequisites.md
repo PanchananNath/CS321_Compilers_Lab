@@ -8,6 +8,10 @@
 
 # Tools
 
-- Felx
+- Flex
+  - Installation guide: sudo apt install flex   
 - Bison
-- Text editor : VI, nano, etc. 
+  - Installation guide: sudo apt install bison 
+- Text editor : VI, nano, etc.
+
+
