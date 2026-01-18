@@ -5,6 +5,7 @@
 # Compiler 
 
 - GCC
+  - Installation guide: sudo apt install gcc
 
 # Tools
 
