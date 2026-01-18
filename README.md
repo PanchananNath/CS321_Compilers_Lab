@@ -21,7 +21,7 @@ Dr. Manojit Ghose and Dr. Angshuman Jana
 
 Simranpreet Kaur
 
-Jyotiprabal Talukdar
+Jyotiplaban Talukdar
 
 Er. Panchanan Nath 
 
