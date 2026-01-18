@@ -19,7 +19,7 @@ Dr. Manojit Ghose and Dr. Angshuman Jana
 
 # TAs 
 
-Simranpreet Kaur
+Simran Preet Kaur
 
 Jyotiplaban Talukdar
 
@@ -28,6 +28,6 @@ Er. Panchanan Nath
 
 # Code contributors
 
-Simranpreet Kaur (TA)
+Simran Preet Kaur (TA)
 
 Er Panchanan Nath (TA)
