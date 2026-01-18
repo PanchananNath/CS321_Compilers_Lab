@@ -4,9 +4,9 @@ Day wise materials for the Lab will be pushed here
 
 # Schedule 
 
-for CS32 :: Monday, 2PM - 5PM 
+Section CS32 :: Monday, 2PM - 5PM 
 
-for CS31 :: Tuesday, 2PM - 5PM 
+Section CS31 :: Tuesday, 2PM - 5PM 
 
 
 # Venue for G24
