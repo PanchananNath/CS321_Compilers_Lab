@@ -9,24 +9,26 @@ Section CS32 :: Monday, 2PM - 5PM
 Section CS31 :: Tuesday, 2PM - 5PM 
 
 
-# Venue for G24
+# Venue 
 
-Lab 5
+Lab 5 3rd floor 
 
-# Tutor for G24
+# Instructor and Tutor 
 
-Dr. Arijit Nath
+Dr. Manojit Ghose
+Dr. Angshuman Jana
 
 # TAs for G24
 
-Gargee Handique 
+Simranpreet Kaur
+
+Jyotiprabal Talukdar
 
 Er. Panchanan Nath 
 
-Susmita Panda
 
 # Code contributors
 
-Er Panchanan Nath (TA)
+Simranpreet Kaur
 
-Semal Priya (Student, Profile: https://github.com/semal-1820)
+Er Panchanan Nath (TA)
