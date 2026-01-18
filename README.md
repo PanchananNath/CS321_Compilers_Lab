@@ -15,8 +15,7 @@ Lab 5 3rd floor
 
 # Instructor and Tutor 
 
-Dr. Manojit Ghose
-Dr. Angshuman Jana
+Dr. Manojit Ghose and Dr. Angshuman Jana
 
 # TAs for G24
 
