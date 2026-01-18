@@ -17,7 +17,7 @@ Lab 5, 3rd floor
 
 Dr. Manojit Ghose and Dr. Angshuman Jana
 
-# TAs for G24
+# TAs 
 
 Simranpreet Kaur
 
