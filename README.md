@@ -4,14 +4,14 @@ Day wise materials for the Lab will be pushed here
 
 # Schedule 
 
-Section CS32 :: Monday, 2PM - 5PM 
+Section CS32 :: Monday, 9 AM - 12 PM 
 
-Section CS31 :: Tuesday, 2PM - 5PM 
+Section CS31 :: Tuesday, 9 AM - 12 PM
 
 
 # Venue 
 
-Lab 5 3rd floor 
+Lab 5, 3rd floor 
 
 # Instructor and Tutor 
 
