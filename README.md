@@ -28,6 +28,6 @@ Er. Panchanan Nath
 
 # Code contributors
 
-Simranpreet Kaur
+Simranpreet Kaur (TA)
 
 Er Panchanan Nath (TA)
