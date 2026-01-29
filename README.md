@@ -28,6 +28,8 @@ Er. Panchanan Nath
 
 # Code contributors
 
+Jyotiplaban Talukdar (TA)
+
 Simran Preet Kaur (TA)
 
 Er Panchanan Nath (TA)
