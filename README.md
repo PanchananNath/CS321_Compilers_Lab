@@ -19,11 +19,11 @@ Dr. Manojit Ghose and Dr. Angshuman Jana
 
 # TAs 
 
-Simran Preet Kaur
+Simran Preet Kaur (email: simran.kaur@iiitg.ac.in)
 
-Jyotiplaban Talukdar
+Jyotiplaban Talukdar (email: jyotiplaban@iiitg.ac.in)
 
-Er. Panchanan Nath 
+Er. Panchanan Nath (email: panchanan.nath@iiitg.ac.in)
 
 
 # Code contributors
