@@ -26,10 +26,3 @@ Jyotiplaban Talukdar (email: jyotiplaban@iiitg.ac.in)
 Er. Panchanan Nath (email: panchanan.nath@iiitg.ac.in)
 
 
-# Code contributors
-
-Jyotiplaban Talukdar (TA)
-
-Simran Preet Kaur (TA)
-
-Er Panchanan Nath (TA)
